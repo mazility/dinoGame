@@ -1,5 +1,5 @@
 # dinoGame
-Google's Dino game using calculation by gray scale pixel
+Google's Dino game using calculation from gray scale pixel
 ## Installation
 The dependencies can be easly installed using pip.
 ```
